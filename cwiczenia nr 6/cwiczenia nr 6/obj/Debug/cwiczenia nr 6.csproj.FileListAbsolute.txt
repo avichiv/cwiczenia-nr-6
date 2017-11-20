@@ -1,0 +1,6 @@
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\bin\Debug\cwiczenia nr 6.exe.config
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\bin\Debug\cwiczenia nr 6.exe
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\bin\Debug\cwiczenia nr 6.pdb
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\obj\Debug\cwiczenia nr 6.csprojResolveAssemblyReference.cache
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\obj\Debug\cwiczenia nr 6.exe
+D:\dawid\cwiczenia nr 6\cwiczenia nr 6\obj\Debug\cwiczenia nr 6.pdb
